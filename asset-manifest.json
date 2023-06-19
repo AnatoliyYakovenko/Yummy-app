@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Yummy-app/static/css/main.22643a69.css",
-    "main.js": "/Yummy-app/static/js/main.a1ca3740.js",
+    "main.js": "/Yummy-app/static/js/main.16e8eadb.js",
     "static/js/150.680d387d.chunk.js": "/Yummy-app/static/js/150.680d387d.chunk.js",
     "static/js/657.45347029.chunk.js": "/Yummy-app/static/js/657.45347029.chunk.js",
-    "static/js/604.3f6d7b08.chunk.js": "/Yummy-app/static/js/604.3f6d7b08.chunk.js",
+    "static/js/604.6c2b404e.chunk.js": "/Yummy-app/static/js/604.6c2b404e.chunk.js",
     "static/js/691.e4ca5840.chunk.js": "/Yummy-app/static/js/691.e4ca5840.chunk.js",
     "static/js/986.47779671.chunk.js": "/Yummy-app/static/js/986.47779671.chunk.js",
     "static/js/922.0c415a12.chunk.js": "/Yummy-app/static/js/922.0c415a12.chunk.js",
@@ -83,10 +83,10 @@
     "static/media/burger.svg": "/Yummy-app/static/media/burger.fe1dad42832947208131dde44c78fdd7.svg",
     "static/media/rectangle.svg": "/Yummy-app/static/media/rectangle.24d94becefc1f1070674aa66edf90971.svg",
     "main.22643a69.css.map": "/Yummy-app/static/css/main.22643a69.css.map",
-    "main.a1ca3740.js.map": "/Yummy-app/static/js/main.a1ca3740.js.map",
+    "main.16e8eadb.js.map": "/Yummy-app/static/js/main.16e8eadb.js.map",
     "150.680d387d.chunk.js.map": "/Yummy-app/static/js/150.680d387d.chunk.js.map",
     "657.45347029.chunk.js.map": "/Yummy-app/static/js/657.45347029.chunk.js.map",
-    "604.3f6d7b08.chunk.js.map": "/Yummy-app/static/js/604.3f6d7b08.chunk.js.map",
+    "604.6c2b404e.chunk.js.map": "/Yummy-app/static/js/604.6c2b404e.chunk.js.map",
     "691.e4ca5840.chunk.js.map": "/Yummy-app/static/js/691.e4ca5840.chunk.js.map",
     "986.47779671.chunk.js.map": "/Yummy-app/static/js/986.47779671.chunk.js.map",
     "922.0c415a12.chunk.js.map": "/Yummy-app/static/js/922.0c415a12.chunk.js.map",
@@ -102,6 +102,6 @@
   },
   "entrypoints": [
     "static/css/main.22643a69.css",
-    "static/js/main.a1ca3740.js"
+    "static/js/main.16e8eadb.js"
   ]
 }
