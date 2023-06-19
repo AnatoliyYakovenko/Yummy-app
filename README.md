@@ -48,7 +48,6 @@ profile.
 - Light/dark mode toggle
 - Fullscreen mode
 - Cross platform
-- Animations
 - Database of recipes
 - Flexible search
 - Easy to use
