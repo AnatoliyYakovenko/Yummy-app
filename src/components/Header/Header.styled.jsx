@@ -148,7 +148,7 @@ export const DesktopList = styled.ul`
   font-size: 14px;
   line-height: calc(22 / 14);
   color: ${props => props.theme.colors.mainHeaderText};
-  color: ${props => console.log(props.isRecipePage) ? `#23262A` : ``};
+  color: ${props => props.isRecipePage ? `#23262A` : ``};
 
   li {
     ${props => props.isRecipePage ? `color: #23262A;` : `color: inherit;`}

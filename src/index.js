@@ -12,13 +12,13 @@ import 'react-toastify/dist/ReactToastify.css';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <Provider store={store}>
-        <PersistGate loading={null} persistor={persistor}>
-            <BrowserRouter basename="/SoYummy-project">
-                <HelmetProvider>
-                    <App />
-                </HelmetProvider>
-            </BrowserRouter>
-        </PersistGate>
-    </Provider>
+  <Provider store={store}>
+    <PersistGate loading={null} persistor={persistor}>
+      <BrowserRouter basename="/Yummy-app">
+        <HelmetProvider>
+          <App />
+        </HelmetProvider>
+      </BrowserRouter>
+    </PersistGate>
+  </Provider>
 );
